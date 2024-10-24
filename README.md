@@ -1,13 +1,13 @@
 <h1 align="center">Oi 👋, eu sou o Marco!</h1>
 <h3 align="center">Um analista de dados apaixonado e curioso.</h3>
 
-- 🔭 Atualmente, estou trabalhando na **Agência Sawi**
+- 🔭 Atualmente, estou trabalhando na **Murched Consultoria Empresarial**
 
-- 🌱 Estou aprendendo habilidades de **Análise de Dados**
+- 🌱 Estou aprendendo habilidades de **Ciência de Dados**
 
-- 💬 Pergunte-me sobre **Regras de Negócio, Análise de Negócios**
+- 💬 Pergunte-me sobre **Regras de Negócio, Análise de Negócios, Marketing Digital, Web Analytics**
 
-- 📫 Como me contatar **euocram@gmail.com**
+- 📫 Como me contatar **datasciencemarco@gmail.com**
 
 
 <h3 align="left">Se conecte comigo:</h3>
